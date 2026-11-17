@@ -1,6 +1,5 @@
-import { Text, View } from 'react-native';
+import { View, Text } from 'react-native';
 import { colors } from '../lib/theme';
-
 
 export default function Placeholder({ title }: { title: string }) {
   return (

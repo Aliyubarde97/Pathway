@@ -7,4 +7,6 @@ export const colors = {
   border: '#DCE4F5',
   text: '#0F1B3D',
   muted: '#4A587D',
+  iconBg: '#E3E9F8',
+  headerSub: '#DCE4FA',
 };

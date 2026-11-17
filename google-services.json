@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68090092412",
+    "project_id": "pathway-3a248",
+    "storage_bucket": "pathway-3a248.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68090092412:android:4cc101cf990032fafee2f9",
+        "android_client_info": {
+          "package_name": "com.Ismail.pathway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgtK2uoI3eAJ-UdyRKuEt4sIg4VnvAUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

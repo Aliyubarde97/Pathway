@@ -1,5 +1,5 @@
 import { Stack } from 'expo-router';
 
-export default function ExamsLayout() {
+export default function LettersLayout() {
   return <Stack screenOptions={{ headerShown: false }} />;
 }
